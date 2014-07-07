@@ -1,0 +1,154 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AnimatedGifExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 676}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 547}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AnimatedGifExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 676}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 675}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AnimatedGifExample */ = {
+		activeExec = 0;
+		executables = (
+			4A0088F5139F16A0003F116B /* AnimatedGifExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AnimatedGifExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 676}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AnimatedGifExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 750}}";
+			sepNavSelRange = "{1133, 19}";
+			sepNavVisRange = "{0, 1393}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4A0088F5139F16A0003F116B /* AnimatedGifExample */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AnimatedGifExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AnimatedGifExample */,
+		);
+		codeSenseManager = 4A00890B139F16B1003F116B /* Code sense */;
+		executables = (
+			4A0088F5139F16A0003F116B /* AnimatedGifExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329193120;
+			PBXWorkspaceStateSaveDate = 329193120;
+		};
+		sourceControlManager = 4A00890A139F16B1003F116B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 676}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 374}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* AnimatedGifExample_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 676}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 205}";
+		};
+	};
+	4A0088F5139F16A0003F116B /* AnimatedGifExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AnimatedGifExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4A00890A139F16B1003F116B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4A00890B139F16B1003F116B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4A00890F139F1740003F116B /* test.gif */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 68}, {1920, 989}}";
+		};
+	};
+	BCFF93DF1000E1E800162DEF /* AnimatedGif.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 1380}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1007, 979}";
+		};
+	};
+	BCFF93E01000E1E800162DEF /* AnimatedGif.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1415, 7845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{552, 1167}";
+		};
+	};
+}
